@@ -2,71 +2,80 @@
 ![Divi Theme](Preview.jpg)
 A list of _free_ resources for Divi Theme by Elegant Themes.
 
-# Table of Contents
+## Table of Contents
 - [Collaboration](#collaboration)
 - [Articles & Tutorials](#articles--tutorials)
 - [Books](#books)
 - [Built with Divi](#built-with-divi)
 - [Child Themes](#child-themes)
-- [Community](#community)
+- [Communities](#communities)
 - [Courses](#courses)
 - [Hosting](#hosting)
 - [News](#news)
 - [Podcasts](#podcasts)
 - [Plugins](#plugins)
 - [Screencasts](#screencasts)
+- [Snippets](#snippets)
 - [Tools](#tools)
 - [More Useful Links](#more-useful-links)
 
-# Collaboration
-Got a useful resource to share? Just send over a pull request or create an [issue](https://github.com/andyhqtran/Divi-Resources/issues).
+## Collaboration
+Got a useful resource to share? Just send over a pull request or create an [issue](https://github.com/andyhqtran/Divi-Resources/issues) with `RESOURCE` as the label.
 
-# Articles & Tutorials
+#### Snippet Guidelines
+To share a snippet, please follow the template located [here](https://github.com/andyhqtran/Divi-Resources/tree/master/Snippets/Template). To share a snippet, send over a pull request or create an [issue](https://github.com/andyhqtran/Divi-Resources/issues) with `RESOURCE` as the label.
+
+#### Website Guidelines
+Make sure that the website you share belongs or was created by you. If not, you should have permission from the owner to share it. To share a website, send over a pull request or create an [issue](https://github.com/andyhqtran/Divi-Resources/issues) with `RESOURCE` as the label.
+
+## Articles & Tutorials
 1. [Divi Documentations](http://www.elegantthemes.com/gallery/divi/documentation/)
-2. [Divi Child Theme](https://github.com/elegantthemes/divi-child-theme-init) -  Child Theme Template that supports CSS, Less, Sass.
 
-# Books
+## Books
 1. [Coming soon]()
 
-# Built with Divi
+## Built with Divi
 A list of sites built with Divi!
 - [Coming soon]()
 
-# Child Themes
+## Child Themes
 A list of free child themes created by the community.
-- [Coming soon]()
+- [**Divi Child Theme Template**](https://github.com/elegantthemes/divi-child-theme-init) -  Child Theme Template that supports CSS, Less, Sass.
 
-# Community
+## Communities
 - [Divi Theme Users](https://www.facebook.com/groups/DiviThemeUsers/)
 - [Elegant Themes Users Community](https://www.facebook.com/groups/ElegantThemesUserCommunity/)
 - [Divi Theme | Extra Theme | Help](https://www.facebook.com/groups/DiviHelpAndShare/)
 - [Divi Theme Examples](https://www.facebook.com/groups/divithemeexamples/)
 
-# Courses
+## Courses
 1. [Coming soon]()
 
-# Hosting
+## Hosting
 Reliable hosting services for hosting a WordPress site.
 
 1. [Coming soon]()
 
-# News
+## News
 1. [Coming soon]()
 
-# Podcasts
+## Podcasts
 1. [Coming soon]()
 
-# Plugins
+## Plugins
 Plugins that are compatible or created for Divi.
 - [The Divi Build](http://www.elegantthemes.com/plugins/divi-builder/) - The plugin powering Divi.
 - [Bloom](http://cdn.elegantthemes.com/images/bloom_plugin_main_image.png) - Email Opt-Ins
 - [Monarch](http://www.elegantthemes.com/plugins/monarch/) - Social Media Sharing
 - [WooCommerce](https://www.woothemes.com/woocommerce/)
 
-# Screencast
+## Screencast
 1. [Coming soon]()
 
-# Tools
+## Snippets
+- [Coming soon]()
+
+## Tools
 A list of useful tools for working with Divi.
 - [Sublime Text 3](http://www.sublimetext.com/3) - Recommended Text Editor.
 - [Atom](https://atom.io/) - Text Editor for the 21st Century.
@@ -79,6 +88,8 @@ A list of useful tools for working with Divi.
 - [Slack](https://slack.com/) - A messaging app for teams.
 - [Mamp](https://www.mamp.info/en/) - Quick and simple local development platform.
 - [BrowserStack](https://www.browserstack.com) - Cross-browser testing tool.
+- [Divi Child Theme Builder](https://divi.space/divi-child-theme-builder/) - Divi Child Theme Builder by Divi Space
+- [Child Theme Maker](https://elegantmarketplace.com/child-theme-maker/) - Child Theme Maker by Elegant Market Place
 
-# More Useful Links
+## More Useful Links
 1. [ElegantThemes - YouTube Channel](https://www.youtube.com/channel/UCuasRuWliU48RwnKXf9GesA)
