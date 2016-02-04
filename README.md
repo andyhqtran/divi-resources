@@ -6,7 +6,7 @@ A list of resources for Divi Theme by Elegant Themes.
 - [Collaboration](#collaboration)
 - [Articles & Tutorials](#articles--tutorials)
 - [Books](#books)
-- [Built with Extra](#built-with-extra)
+- [Built with Divi](#built-with-divi)
 - [Child Themes](#child-themes)
 - [Community](#community)
 - [Courses](#courses)
@@ -57,8 +57,8 @@ Reliable hosting services for hosting a WordPress site.
 1. [Coming soon]()
 
 # Plugins
-Plugins that are compatible or created for Extra.
-- [The Divi Build](http://www.elegantthemes.com/plugins/divi-builder/) - Extra is built with the Divi Builder.
+Plugins that are compatible or created for Divi.
+- [The Divi Build](http://www.elegantthemes.com/plugins/divi-builder/) - The plugin powering Divi.
 - [Bloom](http://cdn.elegantthemes.com/images/bloom_plugin_main_image.png) - Email Opt-Ins
 - [Monarch](http://www.elegantthemes.com/plugins/monarch/) - Social Media Sharing
 - [WooCommerce](https://www.woothemes.com/woocommerce/)
@@ -67,7 +67,7 @@ Plugins that are compatible or created for Extra.
 1. [Coming soon]()
 
 # Tools
-A list of useful tools for working with Extra.
+A list of useful tools for working with Divi.
 - [Sublime Text 3](http://www.sublimetext.com/3) - Recommended Text Editor.
 - [Atom](https://atom.io/) - Text Editor for the 21st Century.
 - [GitHub](http://github.com) - Great collaboration tool and revision tracker.
