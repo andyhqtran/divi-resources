@@ -1,6 +1,6 @@
 # Divi Resources
 ![Divi Theme](Preview.jpg)
-A list of resources for Divi Theme by Elegant Themes.
+A list of _free_ resources for Divi Theme by Elegant Themes.
 
 # Table of Contents
 - [Collaboration](#collaboration)
@@ -37,7 +37,7 @@ A list of free child themes created by the community.
 - [Coming soon]()
 
 # Community
-- [**Divi Theme Users**](https://www.facebook.com/groups/DiviThemeUsers/)
+- [Divi Theme Users](https://www.facebook.com/groups/DiviThemeUsers/)
 - [Elegant Themes Users Community](https://www.facebook.com/groups/ElegantThemesUserCommunity/)
 - [Divi Theme | Extra Theme | Help](https://www.facebook.com/groups/DiviHelpAndShare/)
 - [Divi Theme Examples](https://www.facebook.com/groups/divithemeexamples/)
