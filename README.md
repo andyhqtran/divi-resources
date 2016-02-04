@@ -1,5 +1,6 @@
 # Divi Resources
-A list of resources for Divi Theme by Elegant Themes
+![Divi Theme](Preview.jpg)
+A list of resources for Divi Theme by Elegant Themes.
 
 # Table of Contents
 - [Collaboration](#collaboration)
