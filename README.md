@@ -36,7 +36,21 @@ Make sure that the website you share belongs or was created by you. If not, you 
 
 ## Built with Divi
 A list of sites built with Divi!
-- [Coming soon]()
+- [Divi](http://www.elegantthemes.com/preview/Divi/)
+- [Divi Cafe](http://elegantthemes.com/preview/Divi/cafe/)
+- [Divi Cafe Case Study](http://elegantthemes.com/preview/Divi/agency/project/divi-cafe-case-study/)
+- [Divi Interior](http://elegantthemes.com/preview/Divi/interior/)
+- [Divi Landing](http://elegantthemes.com/preview/Divi/landing/)
+- [Divi Fashion](http://elegantthemes.com/preview/Divi/fashion/)
+- [How to be a Skater Girl](http://elegantthemes.com/preview/Divi-Builder/how-to-be-a-skater-girl/)
+- [SuperFruits](http://elegantthemes.com/preview/Divi-Builder/superfruits/)
+- [The Lost Art of Sewing](http://elegantthemes.com/preview/Divi-Builder/sewing/)
+- [Almonds.](http://elegantthemes.com/preview/Divi-Builder/almonds/)
+- [Career](http://elegantthemes.com/preview/Divi-Builder/career/)
+- [John Doe](http://elegantthemes.com/preview/Divi-Builder/john-doe/)
+- [Rocking Chair](http://elegantthemes.com/preview/Divi-Builder/rocking-chair/)
+- [Slevin](http://elegantthemes.com/preview/Divi-Builder/slevin/)
+- [About Us](http://elegantthemes.com/preview/Divi-Builder/about-us/)
 
 ## Child Themes
 A list of free child themes created by the community.
@@ -64,7 +78,7 @@ Reliable hosting services for hosting a WordPress site.
 
 ## Plugins
 Plugins that are compatible or created for Divi.
-- [The Divi Build](http://www.elegantthemes.com/plugins/divi-builder/) - The plugin powering Divi.
+- [The Divi Builder](http://www.elegantthemes.com/plugins/divi-builder/) - The plugin powering Divi.
 - [Bloom](http://cdn.elegantthemes.com/images/bloom_plugin_main_image.png) - Email Opt-Ins
 - [Monarch](http://www.elegantthemes.com/plugins/monarch/) - Social Media Sharing
 - [WooCommerce](https://www.woothemes.com/woocommerce/)
