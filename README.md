@@ -106,7 +106,7 @@ Plugins that are compatible or created for Divi.
 1. [Coming soon]()
 
 ## Snippets
-- [Coming soon]()
+- [Modal](https://github.com/andyhqtran/Divi-Resources/tree/master/Snippets/Modal)
 
 ## Tools
 A list of useful tools for working with Divi.
