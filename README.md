@@ -85,10 +85,15 @@ Reliable hosting services for hosting a WordPress site.
 - [RackSpace](https://www.rackspace.com/cloud/)
 
 ## News
-1. [Coming soon]()
+1. [Elegant Themes](http://www.elegantthemes.com/blog/)
 
 ## Podcasts
-1. [Coming soon]()
+- [Elegant Themes' YouTube Channel](https://www.youtube.com/channel/UCuasRuWliU48RwnKXf9GesA)
+- [Divi Tutorials](https://www.youtube.com/watch?v=wjdom9CYR70&list=PLF17V-5878mVl3PndEVWiiktdNO4UKs9z)
+- [Divi Nation](https://www.youtube.com/watch?v=hCXGBYHue8U&list=PLF17V-5878mXGiOK0Pfi7aB6ytCh6BF7o)
+- [Divi Quick Tips](https://www.youtube.com/watch?v=ze3qjVr8PbU&list=PLF17V-5878mWVOcXf16DqIwStUtMS53ef)
+- [Divi Site Makeovers](https://www.youtube.com/watch?v=EDJ0X-xi6LY&list=PLF17V-5878mVRguY9Qdt-Vwy2ghY3rx_v)
+- [Divi Design Challenges](https://www.youtube.com/watch?v=4-_T2aPctxs&list=PLF17V-5878mWHRh7x1SsePNV-BkmFR0cS)
 
 ## Plugins
 Plugins that are compatible or created for Divi.
@@ -116,8 +121,9 @@ A list of useful tools for working with Divi.
 - [Slack](https://slack.com/) - A messaging app for teams.
 - [Mamp](https://www.mamp.info/en/) - Quick and simple local development platform.
 - [BrowserStack](https://www.browserstack.com) - Cross-browser testing tool.
-- [Divi Child Theme Builder](https://divi.space/divi-child-theme-builder/) - Divi Child Theme Builder by Divi Space
-- [Child Theme Maker](https://elegantmarketplace.com/child-theme-maker/) - Child Theme Maker by Elegant Market Place
+- [Builder](https://github.com/andyhqtran/Builder) - Child Theme Builder.
+- [Divi Child Theme Builder](https://divi.space/divi-child-theme-builder/) - Divi Child Theme Builder by Divi Space.
+- [Child Theme Maker](https://elegantmarketplace.com/child-theme-maker/) - Child Theme Maker by Elegant Market Place.
 
 ## More Useful Links
 1. [ElegantThemes - YouTube Channel](https://www.youtube.com/channel/UCuasRuWliU48RwnKXf9GesA)
