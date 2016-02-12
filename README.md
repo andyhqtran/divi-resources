@@ -68,7 +68,21 @@ A list of free child themes created by the community.
 ## Hosting
 Reliable hosting services for hosting a WordPress site.
 
-1. [Coming soon]()
+#### Traditional Hosting
+- [HostGator](http://www.hostgator.com/promo/elegantthemes)
+- [BlueHost](https://www.bluehost.com/)
+- [In Motion Hosting](http://www.inmotionhosting.com/)
+- [SiteGround](https://www.siteground.com/)
+- [MediaTemple](https://mediatemple.net/)
+- [DreamHost](https://www.dreamhost.com/)
+- [Arvixe](https://www.arvixe.com/)
+- [Site5](http://www.site5.com/)
+
+#### Cloud Hosting
+- [DigitalOcean](https://www.digitalocean.com/) - [**Click here**](https://m.do.co/c/440d50292a32) for $10 in credit.
+- [Heroku](https://www.heroku.com/)
+- [Amazon Web Service](https://aws.amazon.com/)
+- [RackSpace](https://www.rackspace.com/cloud/)
 
 ## News
 1. [Coming soon]()
