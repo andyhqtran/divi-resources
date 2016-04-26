@@ -1,6 +1,6 @@
 # Divi Resources
 ![Divi Theme](Preview.jpg)
-A list of _free_ resources for Divi Theme by Elegant Themes.
+A list of awesome resources for Divi Theme by [Elegant Themes](https://elegantthemes.com/)
 
 ## Table of Contents
 - [Collaboration](#collaboration)
@@ -11,6 +11,7 @@ A list of _free_ resources for Divi Theme by Elegant Themes.
 - [Communities](#communities)
 - [Courses](#courses)
 - [Hosting](#hosting)
+- [Layout Packs](#layout-packs)
 - [News](#news)
 - [Podcasts](#podcasts)
 - [Plugins](#plugins)
@@ -32,10 +33,11 @@ Make sure that the website you share belongs or was created by you. If not, you 
 1. [Divi Documentations](http://www.elegantthemes.com/gallery/divi/documentation/)
 
 ## Books
-1. [Coming soon]()
+Uh oh, looks like there's none! To share a resource, take a look at our [collaboration](#collaboration) guidelines.
 
 ## Built with Divi
-A list of sites built with Divi!
+Awesome sites built using Divi!
+
 - [Divi](http://www.elegantthemes.com/preview/Divi/)
 - [Divi Cafe](http://elegantthemes.com/preview/Divi/cafe/)
 - [Divi Cafe Case Study](http://elegantthemes.com/preview/Divi/agency/project/divi-cafe-case-study/)
@@ -53,7 +55,8 @@ A list of sites built with Divi!
 - [About Us](http://elegantthemes.com/preview/Divi-Builder/about-us/)
 
 ## Child Themes
-A list of free child themes created by the community.
+Child Themes are modified versions of Divi that features a lot more customization!
+
 - [**Divi Child Theme Template**](https://github.com/elegantthemes/divi-child-theme-init) -  Child Theme Template that supports CSS, Less, Sass.
 
 ## Communities
@@ -63,7 +66,7 @@ A list of free child themes created by the community.
 - [Divi Theme Examples](https://www.facebook.com/groups/divithemeexamples/)
 
 ## Courses
-1. [Coming soon]()
+Uh oh, looks like there's none! To share a resource, take a look at our [collaboration](#collaboration) guidelines.
 
 ## Hosting
 Reliable hosting services for hosting a WordPress site.
@@ -79,10 +82,18 @@ Reliable hosting services for hosting a WordPress site.
 - [Site5](http://www.site5.com/)
 
 #### Cloud Hosting
-- [DigitalOcean](https://www.digitalocean.com/) - [**Click here**](https://m.do.co/c/440d50292a32) for $10 in credit.
+- [DigitalOcean](https://www.digitalocean.com/) - [[$10 Free Credit]](https://m.do.co/c/440d50292a32)
 - [Heroku](https://www.heroku.com/)
 - [Amazon Web Service](https://aws.amazon.com/)
 - [RackSpace](https://www.rackspace.com/cloud/)
+
+# Layout Packs
+Layout packs allows you to share layouts using the Portability System that was introduced in [Divi 2.7](https://www.elegantthemes.com/blog/theme-releases/divi-2-7).
+
+**Elegant Themes**
+
+- [Layout #1](https://github.com/andyhqtran/Divi-Resources/tree/master/Layout Packs/Elegant Themes/001.json)
+
 
 ## News
 1. [Elegant Themes](http://www.elegantthemes.com/blog/)
@@ -97,19 +108,23 @@ Reliable hosting services for hosting a WordPress site.
 
 ## Plugins
 Plugins that are compatible or created for Divi.
+
 - [The Divi Builder](http://www.elegantthemes.com/plugins/divi-builder/) - The plugin powering Divi.
 - [Bloom](http://cdn.elegantthemes.com/images/bloom_plugin_main_image.png) - Email Opt-Ins
 - [Monarch](http://www.elegantthemes.com/plugins/monarch/) - Social Media Sharing
 - [WooCommerce](https://www.woothemes.com/woocommerce/)
 
 ## Screencast
-1. [Coming soon]()
+Uh oh, looks like there's none! To share a resource, take a look at our [collaboration](#collaboration) guidelines.
 
 ## Snippets
+Snippets are awesome blocks of code that you can add to the `Code Module`.
+
 - [Modal](https://github.com/andyhqtran/Divi-Resources/tree/master/Snippets/Modal)
 
 ## Tools
 A list of useful tools for working with Divi.
+
 - [Sublime Text 3](http://www.sublimetext.com/3) - Recommended Text Editor.
 - [Atom](https://atom.io/) - Text Editor for the 21st Century.
 - [GitHub](http://github.com) - Great collaboration tool and revision tracker.
