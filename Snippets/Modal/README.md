@@ -6,7 +6,7 @@ A simple modal popup snippet.
 1. Create a new page.
 2. Create a row.
 3. Create a code module.
-4. Copy and past the copy below.
+4. Copy and paste the code below.
 
 ```html
 <!-- Styles -->
@@ -88,6 +88,10 @@ A simple modal popup snippet.
   });
 </script>
 ```
+
+## Credits
+- [Mario Maruffi](https://dribbble.com/MarioMaruffi)
+- [Andy Tran](http://codepen.io/andytran/)
 
 -
 Created by [Andy Tran](http://andy.design) on Feb. 11nd, 2016.
