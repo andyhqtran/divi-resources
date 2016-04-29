@@ -66,7 +66,8 @@ Child Themes are modified versions of Divi that features a lot more customizatio
 - [Divi Theme Examples](https://www.facebook.com/groups/divithemeexamples/)
 
 ## Courses
-Uh oh, looks like there's none! To share a resource, take a look at our [collaboration](#collaboration) guidelines.
+
+- [Deep Dive Into Divi](http://www.elegantmarketplace.net/course/deep-dive-into-divi/) - Course by [Elegant Market Place](https://elegantmarketplace.com/)
 
 ## Hosting
 Reliable hosting services for hosting a WordPress site.
