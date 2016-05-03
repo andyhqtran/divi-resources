@@ -24,16 +24,16 @@ A list of awesome resources for Divi Theme by [Elegant Themes](https://elegantth
 Got a useful resource to share? Just send over a pull request or create an [issue](https://github.com/andyhqtran/Divi-Resources/issues) with `RESOURCE` as the label.
 
 #### Snippet Guidelines
-To share a snippet, please follow the template located [here](https://github.com/andyhqtran/Divi-Resources/tree/master/Snippets/Template). To share a snippet, send over a pull request or create an [issue](https://github.com/andyhqtran/Divi-Resources/issues) with `RESOURCE` as the label.
+To share a snippet, send over a pull request or create an [issue](https://github.com/andyhqtran/Divi-Resources/issues) with `RESOURCE` as the label. Please follow the template located [here](https://github.com/andyhqtran/Divi-Resources/tree/master/Snippets/Template).
 
 #### Website Guidelines
-Make sure that the website you share belongs or was created by you. If not, you should have permission from the owner to share it. To share a website, send over a pull request or create an [issue](https://github.com/andyhqtran/Divi-Resources/issues) with `RESOURCE` as the label.
+Make sure that the website you share belongs to or was created by you. If not, you should have obtained permission from the owner to share it. To share a website, send over a pull request or create an [issue](https://github.com/andyhqtran/Divi-Resources/issues) with `RESOURCE` as the label.
 
 ## Articles & Tutorials
 1. [Divi Documentations](http://www.elegantthemes.com/gallery/divi/documentation/)
 
 ## Books
-Uh oh, looks like there's none! To share a resource, take a look at our [collaboration](#collaboration) guidelines.
+Uh oh, looks like there aren't any! To share a resource, take a look at our [collaboration](#collaboration) guidelines.
 
 ## Built with Divi
 Awesome sites built using Divi!
@@ -70,20 +70,22 @@ Child Themes are modified versions of Divi that features a lot more customizatio
 - [Deep Dive Into Divi](http://www.elegantmarketplace.net/course/deep-dive-into-divi/) - Course by [Elegant Market Place](https://elegantmarketplace.com/)
 
 ## Hosting
-Reliable hosting services for hosting a WordPress site.
+Reliable WordPress hosting providers.
 
-#### Traditional Hosting
-- [HostGator](http://www.hostgator.com/promo/elegantthemes)
-- [BlueHost](https://www.bluehost.com/)
-- [In Motion Hosting](http://www.inmotionhosting.com/)
-- [SiteGround](https://www.siteground.com/)
-- [MediaTemple](https://mediatemple.net/)
-- [DreamHost](https://www.dreamhost.com/)
-- [Arvixe](https://www.arvixe.com/)
-- [Site5](http://www.site5.com/)
+#### Managed/Semi-Managed WordPress Hosting
+Services where the technical aspects of running WordPress are managed by the hosting provider.
+
+- [SiteGround](https://www.siteground.com/wordpress-hosting.htm)
+- [DreamHost](https://www.dreamhost.com/wordpress)
+- [MediaTemple](https://mediatemple.net/webhosting/wordpress/)
+- [WPEngine](https://wpengine.com/)
+- [Flywheel](https://getflywheel.com/)
 
 #### Cloud Hosting
+Services where you manage your own VPS
 - [DigitalOcean](https://www.digitalocean.com/) - [[$10 Free Credit]](https://m.do.co/c/440d50292a32)
+- [Linode](https://www.linode.com/?r=1caf0505d5b6116dd729541772bc0d0e9cd34f6c)
+- [Dreamhost](https://www.dreamhost.com/cloud/computing/)
 - [Heroku](https://www.heroku.com/)
 - [Amazon Web Service](https://aws.amazon.com/)
 - [RackSpace](https://www.rackspace.com/cloud/)
