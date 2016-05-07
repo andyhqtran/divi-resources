@@ -18,6 +18,7 @@ A list of awesome resources for Divi Theme by [Elegant Themes](https://elegantth
 - [Screencasts](#screencasts)
 - [Snippets](#snippets)
 - [Tools](#tools)
+- [Tweaks](#tweaks)
 - [More Useful Links](#more-useful-links)
 
 ## Collaboration
@@ -30,10 +31,10 @@ To share a snippet, send over a pull request or create an [issue](https://github
 Make sure that the website you share belongs to or was created by you. If not, you should have obtained permission from the owner to share it. To share a website, send over a pull request or create an [issue](https://github.com/andyhqtran/Divi-Resources/issues) with `RESOURCE` as the label.
 
 ## Articles & Tutorials
-1. [Divi Documentations](http://www.elegantthemes.com/gallery/divi/documentation/)
+1. [Divi Documentation](http://www.elegantthemes.com/gallery/divi/documentation/)
 
 ## Books
-Uh oh, looks like there aren't any! To share a resource, take a look at our [collaboration](#collaboration) guidelines.
+Uh oh, looks like there aren't any! To share a resource, check out our [collaboration](#collaboration) guidelines.
 
 ## Built with Divi
 Awesome sites built using Divi!
@@ -55,9 +56,9 @@ Awesome sites built using Divi!
 - [About Us](http://elegantthemes.com/preview/Divi-Builder/about-us/)
 
 ## Child Themes
-Child Themes are modified versions of Divi that features a lot more customization!
+Child Themes extend/enhance Divi's default functionality.
 
-- [**Divi Child Theme Template**](https://github.com/elegantthemes/divi-child-theme-init) -  Child Theme Template that supports CSS, Less, Sass.
+- [**Divi Child Theme Boilerplate**](https://github.com/elegantthemes/divi-child-theme-init) -  Child Theme Boilerplate  that supports CSS, Less, & Sass.
 
 ## Communities
 - [Divi Theme Users](https://www.facebook.com/groups/DiviThemeUsers/)
@@ -66,7 +67,6 @@ Child Themes are modified versions of Divi that features a lot more customizatio
 - [Divi Theme Examples](https://www.facebook.com/groups/divithemeexamples/)
 
 ## Courses
-
 - [Deep Dive Into Divi](http://www.elegantmarketplace.net/course/deep-dive-into-divi/) - Course by [Elegant Market Place](https://elegantmarketplace.com/)
 
 ## Hosting
@@ -90,10 +90,10 @@ Services where you manage your own VPS
 - [Amazon Web Service](https://aws.amazon.com/)
 - [RackSpace](https://www.rackspace.com/cloud/)
 
-# Layout Packs
+## Layout Packs
 Layout packs allows you to share layouts using the Portability System that was introduced in [Divi 2.7](https://www.elegantthemes.com/blog/theme-releases/divi-2-7).
 
-**Elegant Themes**
+#### Elegant Themes
 
 - [Layout #1](https://github.com/andyhqtran/Divi-Resources/tree/master/Layout Packs/Elegant Themes/001.json)
 
@@ -110,12 +110,17 @@ Layout packs allows you to share layouts using the Portability System that was i
 - [Divi Design Challenges](https://www.youtube.com/watch?v=4-_T2aPctxs&list=PLF17V-5878mWHRh7x1SsePNV-BkmFR0cS)
 
 ## Plugins
-Plugins that are compatible or created for Divi.
+Plugins that are compatible with or created for Divi.
 
-- [The Divi Builder](http://www.elegantthemes.com/plugins/divi-builder/) - The plugin powering Divi.
+- [All in One SEO Pack](https://wordpress.org/plugins/all-in-one-seo-pack/) - SEO
 - [Bloom](http://cdn.elegantthemes.com/images/bloom_plugin_main_image.png) - Email Opt-Ins
-- [Monarch](http://www.elegantthemes.com/plugins/monarch/) - Social Media Sharing
-- [WooCommerce](https://www.woothemes.com/woocommerce/)
+- [Monarch](http://www.elegantthemes.com/plugins/monarch/) - Social Media Sharing/Following
+- [Ultimate Member](https://wordpress.org/plugins/ultimate-member/) - Membership Management
+- [WooCommerce](https://www.woothemes.com/woocommerce/) - eCommerce
+- [Wordfence](https://wordpress.org/plugins/wordfence/) - Site Security
+- [WP-Rocket](http://wp-rocket.me/) - Caching and Performance Optimization
+- [WPML](https://wpml.org/) - Multilingual Sites
+- [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) - SEO
 
 ## Screencast
 Uh oh, looks like there's none! To share a resource, take a look at our [collaboration](#collaboration) guidelines.
@@ -142,6 +147,12 @@ A list of useful tools for working with Divi.
 - [Builder](https://github.com/andyhqtran/Builder) - Child Theme Builder.
 - [Divi Child Theme Builder](https://divi.space/divi-child-theme-builder/) - Divi Child Theme Builder by Divi Space.
 - [Child Theme Maker](https://elegantmarketplace.com/child-theme-maker/) - Child Theme Maker by Elegant Market Place.
+
+## Tweaks
+Tweaks are snippets of code that you can add to your child theme to change the default functionality of Divi in some way.
+
+- [Divi Theme Tweaks](https://github.com/andyhqtran/Divi-Resources/tree/master/Tweaks/Divi-Theme)
+- [Divi Builder Tweaks](https://github.com/andyhqtran/Divi-Resources/tree/master/Tweaks/Divi-Builder)
 
 ## More Useful Links
 1. [ElegantThemes - YouTube Channel](https://www.youtube.com/channel/UCuasRuWliU48RwnKXf9GesA)
