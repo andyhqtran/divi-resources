@@ -30,7 +30,8 @@ To share a snippet, send over a pull request or create an [issue](https://github
 Make sure that the website you share belongs to or was created by you. If not, you should have obtained permission from the owner to share it. To share a website, send over a pull request or create an [issue](https://github.com/andyhqtran/Divi-Resources/issues) with `RESOURCE` as the label.
 
 ## Articles & Tutorials
-1. [Divi Documentations](http://www.elegantthemes.com/gallery/divi/documentation/)
+- [Divi Documentations](http://www.elegantthemes.com/gallery/divi/documentation/)
+- [The Best Hidden Feature of Divi](https://medium.com/@helloandytran/the-best-hidden-feature-of-divi-59c3a3449a29#.jgn50nh2k)
 
 ## Books
 Uh oh, looks like there aren't any! To share a resource, take a look at our [collaboration](#collaboration) guidelines.
@@ -66,8 +67,9 @@ Child Themes are modified versions of Divi that features a lot more customizatio
 - [Divi Theme Examples](https://www.facebook.com/groups/divithemeexamples/)
 
 ## Courses
-
 - [Deep Dive Into Divi](http://www.elegantmarketplace.net/course/deep-dive-into-divi/) - Course by [Elegant Market Place](https://elegantmarketplace.com/)
+- [Tree House](https://teamtreehouse.com/) - Start Learning at Treehouse for Free
+- [Code School](https://www.codeschool.com/) - Learn by doing - Code School
 
 ## Hosting
 Reliable WordPress hosting providers.
@@ -124,6 +126,9 @@ Uh oh, looks like there's none! To share a resource, take a look at our [collabo
 Snippets are awesome blocks of code that you can add to the `Code Module`.
 
 - [Modal](https://github.com/andyhqtran/Divi-Resources/tree/master/Snippets/Modal)
+- [Banner](https://github.com/andyhqtran/Divi-Resources/tree/master/Snippets/Banner)
+- [Team Grid](https://github.com/andyhqtran/Divi-Resources/tree/master/Snippets/Team%20Grid)
+- [Help Button](https://github.com/andyhqtran/Divi-Resources/tree/master/Snippets/Help%20Button)
 
 ## Tools
 A list of useful tools for working with Divi.
