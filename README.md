@@ -99,6 +99,8 @@ Layout packs allows you to share layouts using the Portability System that was i
 
 - [Layout #1](https://github.com/andyhqtran/Divi-Resources/tree/master/Layout Packs/Elegant Themes/001.json)
 
+**Divi 100**
+- [002 - Landing Page Kit](https://github.com/andyhqtran/Divi-Resources/tree/master/Divi%20100/Layout%20Packs/002%20-%20Landing%20Page%20Kit)
 
 ## News
 1. [Elegant Themes](http://www.elegantthemes.com/blog/)
