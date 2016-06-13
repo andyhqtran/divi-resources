@@ -82,6 +82,7 @@ Services where the technical aspects of running WordPress are managed by the hos
 - [MediaTemple](https://mediatemple.net/webhosting/wordpress/)
 - [WPEngine](https://wpengine.com/)
 - [Flywheel](https://getflywheel.com/)
+- [Kinsta](https://kinsta.com/)
 
 #### Cloud Hosting
 Services where you manage your own VPS
