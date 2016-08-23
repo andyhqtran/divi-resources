@@ -85,3 +85,4 @@ Every single day, for 100 days in a row, we will be sharing a new and exciting f
 82. [5 Button Styles You Can Achieve With the Button Module](http://www.elegantthemes.com/blog/divi-resources/5-unique-button-styles-you-can-achieve-with-divis-button-module)
 83. [10 Awesome Third-Party Divi Plugins](http://www.elegantthemes.com/blog/divi-resources/10-awesome-third-party-divi-plugins)
 84. [Free Divi Landing Pages Layout Pack Kit (Wireframe) Vol. 2](http://www.elegantthemes.com/blog/divi-resources/download-another-free-divi-landing-pages-layout-pack-built-with-our-expanding-wireframe-kit)
+85. [5 Text Styling Tricks for WordPress and Divi](https://www.elegantthemes.com/blog/divi-resources/5-text-styling-tricks-for-wordpress-and-divi)
