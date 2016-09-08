@@ -80,7 +80,7 @@ Every single day, for 100 days in a row, we will be sharing a new and exciting f
 77. [Free Divi Landing Pages Layout Pack Kit (Wireframe) Vol. 1](http://www.elegantthemes.com/blog/divi-resources/download-the-free-divi-landing-pages-layout-pack-built-with-wireframe-kit-vol-1)
 78. [How to Give Your Divi Archive Pages a Masonry Layout](http://www.elegantthemes.com/blog/divi-resources/how-to-give-your-divi-archive-pages-a-masonry-layout)
 79. [Free Divi Wireframe Product Sections Layout Kit](http://www.elegantthemes.com/blog/divi-resources/download-the-free-divi-wireframe-static-product-sections-layout-kit)
-80. [Divi 3.0 Sneak Peek Video #2](http://www.elegantthemes.com/blog/divi-resources/divi-3-0-sneak-peek-video-2-the-invisible-customizable-user-interface?utm_source=Elegant+Themes&utm_campaign=2e26172f7f-Divi_100_Daily&utm_medium=email&utm_term=0_c886a2fc0a-2e26172f7f-50751429)
+80. [Divi 3.0 Sneak Peek Video #2](http://www.elegantthemes.com/blog/divi-resources/divi-3-0-sneak-peek-video-2-the-invisible-customizable-user-interface
 81. [Community Update](http://www.elegantthemes.com/blog/divi-resources/community-update-divi-3-0-beta-powered-by-divi-t-shirts-upcoming-wordcamps-divi-nation-short)
 82. [5 Button Styles You Can Achieve With the Button Module](http://www.elegantthemes.com/blog/divi-resources/5-unique-button-styles-you-can-achieve-with-divis-button-module)
 83. [10 Awesome Third-Party Divi Plugins](http://www.elegantthemes.com/blog/divi-resources/10-awesome-third-party-divi-plugins)
