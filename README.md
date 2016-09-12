@@ -1,3 +1,5 @@
+> Divi 3.0 has arrived! Introducing the visual page builder so ridiculously fast & easy-to-use you’ll think it’s magic! [Click here](https://www.elegantthemes.com/blog/theme-releases/divi-3) for more information!
+
 # Divi Resources
 ![Divi Theme](Preview.jpg)
 A list of awesome resources for Divi Theme by [Elegant Themes](https://elegantthemes.com/)
