@@ -1,5 +1,5 @@
 # Help Button
-![Help Button](Help Button.jpg)
+![Help Button](Help%20Button.jpg)
 A floating help button in the bottom right corner.
 
 ## How to Install Help Button
